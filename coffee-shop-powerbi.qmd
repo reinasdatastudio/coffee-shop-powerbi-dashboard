@@ -1,5 +1,5 @@
 ---
-title: "Sales Analysis of a Coffee Shop with Power BI"
+title: "Coffee Shop Sales Analytics Dashboard (Power BI)"
 author: "Reina Kaino"
 format:
   html:
